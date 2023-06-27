@@ -1,6 +1,6 @@
-Feature Name: blockspace-regions
-Start Date: June 27, 2023
-RFC PR: https://github.com/polkadot-fellows/rfcs/pull/0001
+* Feature Name: blockspace-regions
+* Start Date: June 27, 2023
+* RFC PR: https://github.com/polkadot-fellows/rfcs/pull/0001
 
 # Summary
 
