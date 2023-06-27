@@ -1,6 +1,6 @@
-Title: `your_title_here`
-Start Date: <date here>
-RFC PR: <update this with the PR link once open>
+* Feature Name : `your_title_here`
+* Start Date: <date here>
+* RFC PR: <update this with the PR link once open>
 
 ## Summary
 
